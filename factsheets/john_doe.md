@@ -29,7 +29,7 @@ This can be anything that you think worked particularly well and benefited the p
 
 ## Sprint 1
 
-...
+... (repeat structure of the section for Sprint 0)
 
 
 ## Sprint 2
