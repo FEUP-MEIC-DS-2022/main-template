@@ -2,7 +2,9 @@
 
 Explain here in one or two short paragraphs what is the goal of the project.
 
-If needed, in this or any of the sections below, you can link to external resources or additional markdown files with more details (please place these in the [docs](docs/) directory).
+More details about the product can be found in the [product management](docs/product.md) documentation, which includes the product vision, market research and domain analysis.
+ 
+Note: If needed, in this or any of the sections below, you can link to external resources or additional markdown files with more details (please place these in the [docs](docs/) directory).
 
 
 ## How to use
@@ -13,6 +15,8 @@ Explain how to use your software from a product standpoint. This can include sho
 ## How to contribute
 
 Explain what a new developer to the project should know in order to develop the system, including who to build, run and test it in a development environment. 
+
+More details about the technical vision can be found in the [development](docs/development.md) documentation, which includes information on architectural, design and technical aspects of the project, justifying the most important choices to show the soundness of the technical vision.
 
 
 ## How to run
