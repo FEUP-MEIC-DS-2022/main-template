@@ -22,12 +22,12 @@ Explain how to package, deploy and run the system to a production (or production
 
 ## Contributions
 
-Link to the factsheets of each team and of each team-member. For example
+Link to the factsheets of each team and of each team-member. For example:
 
-[Team 1](factsheets/team1.md)
- * [John Doe](factsheets/john_doe.md) (SPO)
- * [Jane Doe](factsheets/jane_doe.md)
-[Team 2](factsheets/team2.md)
- * ...
+ * [Team 1](factsheets/team1.md)
+   * [John Doe](factsheets/john_doe.md) (SPO)
+   * [Jane Doe](factsheets/jane_doe.md)
+ * [Team 2](factsheets/team2.md)
+   * ...
 
 
