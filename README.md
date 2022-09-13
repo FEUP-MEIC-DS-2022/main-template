@@ -1,15 +1,11 @@
-# Project name
+# Product Name
 
-Explain here in one or two short paragraphs what is the goal of the project.
-
-More details about the product can be found in the [product management](docs/product.md) documentation, which includes the product vision, market research and domain analysis.
+Explain here in one or two sentences what is the goal of your product. More details about the product should be found in the [product management](docs/product.md) documentation (make sure you link it from here), which includes the product vision, market research and domain analysis.
  
-Note: If needed, in this or any of the sections below, you can link to external resources or additional markdown files with more details (please place these in the [docs](docs/) directory).
-
 
 ## How to use
 
-Explain how to use your software from a product standpoint. This can include short videos, screenshots, or API documentation, depending on what makes sense for your particular software system.
+Explain how to use your software from user standpoint. This can include short videos, screenshots, or API documentation, depending on what makes sense for your particular software system and target users. If needed, link to external resources or additional markdown files with further details (please place these in the [docs](docs/) directory).
 
 
 ## How to contribute
@@ -21,7 +17,7 @@ More details about the technical vision can be found in the [development](docs/d
 
 ## How to run
 
-Explain how to package, deploy and run the system to a production (or production-like) environment. 
+Explain how to package, deploy and run the system to a production (or production-like) environment. If needed, link to external resources or additional markdown files with further details (please place these in the [docs](docs/) directory).
 
 
 ## Contributions
