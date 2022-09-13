@@ -1,8 +1,8 @@
 # Development
 
-## Architecture overview
+## Architecture and design
 
-Describe the architecture and design of the system. Use component/deployment diagrams. If needed, resort to package diagrams to organize them into more manageable parts.
+Describe the architecture and design of the system. Use component/deployment diagrams. If needed, resort to package diagrams to organize them into more manageable parts. 
 
 Be clear about what is the current architecture/design and what is the one you envision in the future, in case they are different. 
 Identify main risks and justify the most important choices to show the soundness of the architecture and design that you have implemented or plan to implement.
@@ -34,7 +34,15 @@ Identify potential security vulnerabilities classes and explain what the team ha
 Describe which tools are used for quality assurance and link to relevant resources. Namely, provide access to reports for coverage and mutation analysis, static analysis, and other tools that may be used for QA.
 
 
+## Metrics
+
+Describe how you captured each of the "four key metrics" (e.g., automatic mechanism, survey to the team on the end of each sprint).
+
+Provide here an historical record (for each sprint) of the four key metrics and velocity.
 
 
+## Restrospectives
+
+Describe (possibly as separate markdown files linked form this section) a written account of your retrospectives. There should be, for each sprint, one retrospective for the entire project, and one for each team.
 
 
