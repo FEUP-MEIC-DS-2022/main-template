@@ -27,6 +27,7 @@ Link to the factsheets of each team and of each team-member. For example:
  * [Team 1](factsheets/team1.md)
    * [John Doe](factsheets/john_doe.md) (SPO)
    * [Jane Doe](factsheets/jane_doe.md)
+   * [Richard Doe](factsheets/richard_doe.md) (SM)
  * [Team 2](factsheets/team2.md)
    * ...
 
