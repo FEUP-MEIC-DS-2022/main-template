@@ -49,7 +49,7 @@ This can be anything that you think worked particularly well and benefited the p
 
 ## Overall Product
 
-Reflect on your specific contributions to the product as perceived by a user and, in particular, on the three categories below (see Dashboard > Final result > Product). Keep each section below to a size of 40~100 words.
+Reflect on your specific contributions to the product, technically and as perceived by a user, along the three dimensions below (see Dashboard > Final outcomes > Product). Keep each section below to a size of 40~100 words.
 
 
 ### Technical Soundness
